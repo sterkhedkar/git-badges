@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="24" viewBox="0 0 80 24">
+  <defs>
+    <clipPath id="clip-Artboard_4">
+      <rect width="80" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_4" data-name="Artboard – 4" clip-path="url(#clip-Artboard_4)">
+    <rect width="80" height="24" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="80" height="24" fill="#019464"/>
+    <text id="TRY_NOW" data-name="TRY NOW" transform="translate(13 15)" fill="#fff" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">TRY NOW</tspan></text>
+  </g>
+</svg>
