@@ -5,8 +5,8 @@
     </clipPath>
   </defs>
   <g id="Artboard_2" data-name="Artboard – 2" clip-path="url(#clip-Artboard_2)">
-    <rect id="Rectangle_2" data-name="Rectangle 2" width="127" height="24" fill="rgba(216,0,88,0.6)"/>
-    <text id="maintained_with_" data-name="maintained with " transform="translate(12 16)" fill="#fff" font-size="10" font-family="OCRAExtended, OCR A" letter-spacing="0.05em"><tspan x="0" y="0">maintained with </tspan></text>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="129" height="24" fill="rgba(216,0,88,0.6)"/>
+    <text id="maintained_with_" data-name="maintained with " transform="translate(3 16)" fill="#fff" font-size="12" font-family="OCRAExtended, OCR A" letter-spacing="0.05em"><tspan x="0" y="0">maintained with </tspan></text>
     <rect id="Rectangle_1" data-name="Rectangle 1" width="55" height="24" transform="translate(127)" fill="#d80058"/>
     <text id="LOVE" transform="translate(140 16)" fill="#fff" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">LOVE</tspan></text>
   </g>

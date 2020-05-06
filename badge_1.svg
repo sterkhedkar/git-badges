@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="24.427" viewBox="0 0 160 24.427">
   <defs>
-    <clipPath id="clip-Artboard_1">
+    <clipPath id="clip-Artboard_3">
       <rect width="160" height="24.427"/>
     </clipPath>
   </defs>
-  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
-    <rect id="Rectangle_2" data-name="Rectangle 2" width="96" height="24" fill="rgba(89,38,140,0.8)"/>
-    <text id="built_with" data-name="built with" transform="translate(16 16)" fill="#fff" font-size="10" font-family="OCRAExtended, OCR A" letter-spacing="0.05em"><tspan x="0" y="0">built with</tspan></text>
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="24" transform="translate(96)" fill="#59268c"/>
-    <text id="SCIENCE" transform="translate(103 16)" fill="#fff" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">SCIENCE</tspan></text>
+  <g id="Artboard_3" data-name="Artboard – 3" clip-path="url(#clip-Artboard_3)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="115" height="24" fill="rgba(106,74,214,0.8)"/>
+    <text id="deployed_with" data-name="deployed with" transform="translate(7 16)" fill="#fff" font-size="12" font-family="OCRAExtended, OCR A" letter-spacing="0.05em"><tspan x="0" y="0">deployed with</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="45" height="24" transform="translate(115)" fill="#6a4ad6"/>
+    <text id="SWAG" transform="translate(121 16)" fill="#fff" font-size="8" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">SWAG</tspan></text>
   </g>
 </svg>
